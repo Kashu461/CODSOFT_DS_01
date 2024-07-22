@@ -11,6 +11,6 @@ MOVIE RATING PREDICTION WITH PYTHON : The goal is to analyze historical movie da
 
 IRIS FLOWER CLASSIFICATION : The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their measurements. the Iris dataset is used to develop a model that can classify iris flowers into different species based on their sepal and petal measurements. This dataset is widely used for introductory classification tasks.
 
-SALES PREDICTION USING PYTHON : Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such asnadvertising expenditure, target audience segmentation, and advertising platform selection.The role of a Data Scientist is crucial for predicting future sales. They utilize machine learning techniques in Python to analyze and interpret data, allowing them to make informed decisions regarding advertising costs. By leveraging these predictions, businesses can optimize their advertising strategies and maximize sales potential.
 
-CREDIT CARD FRAUD DETECTION : In credit card fraud detection , I develop a machine learning model to identify fraudulent credit card transactions.here I Trained a classification algorithm, such as logistic regression or random forests, to classify transactions as fraudulent or genuine, also Preprocess and normalize the transaction data, handle class imbalance issues, and split the dataset into training and testing sets.
+
+
